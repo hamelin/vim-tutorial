@@ -15,4 +15,8 @@ reward yadda yadda yadda.
 
 The following lesson plan suggests the introduction of features in bite-size
 sets. Each should be followed with a few days of practice with the features of
-the lesson, to get them into one's fingers, so to speak.
+the lesson, to get them into one's fingers, so to speak. Questions to the
+author should be addressed by raising issues through GitHub.
+
+[Lesson 1](lesson1.md)
+
